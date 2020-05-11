@@ -1,0 +1,125 @@
+<!--pages/index6/index6.wxml-->
+<view class="whole">
+<view class="course">
+<view class="course1" > <view class="course2">星期一</view></view>
+<view class="course1" > <view class="course2">星期二</view></view>
+<view class="course1" > <view class="course2">星期三</view></view>
+<view class="course1" > <view class="course2">星期四</view></view>
+<view class="course11" > <view class="course2">星期五</view></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="course">
+<view class="course1"><textarea class="write"></textarea>
+</view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course1"><textarea class="write"></textarea></view>
+<view class="course11"><textarea class="write"></textarea></view>
+</view>
+
+<view class="storage">
+<button type="default" disabled="true" plain="true">
+<navigator class="comeIn" url="../index6/index6" open-type="navigate">点击保存
+</navigator>
+</button>
+</view>
+</view>

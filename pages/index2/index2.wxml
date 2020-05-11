@@ -1,0 +1,29 @@
+<!--pages/index2/index2.wxml-->
+<view class="whole">
+<view class="catalog">
+<view class="logo">
+<image src="../../icons/小程序.jpg"></image></view>
+<view class="study">
+<text>学习备忘录</text>
+</view>
+</view>
+<view class="support">助力你学习</view>
+<view class="forChoice">
+<view class="choice">
+  <navigator class="comeIn" url="../index4/index4" open-type="navigate">课程与学习规划
+  <text class="choiceLogo">></text>
+  </navigator>
+</view>
+<view class="choice">
+  <navigator class="comeIn" url="../index9/index9" open-type="navigate">随手记
+<text class="choiceLogo">></text>
+  </navigator>
+</view>
+<view class="choice">
+  <navigator class="comeIn" url="../index10/index10" open-type="navigate">设置
+  <text class="choiceLogo">></text>
+  </navigator>
+</view>
+</view>
+</view>
+

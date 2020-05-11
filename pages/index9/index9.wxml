@@ -1,0 +1,12 @@
+<!--pages/index9/index9.wxml-->
+<!--添加数据-->
+<input placeholder='记录下想做的事吧~' bindinput='addRecord'></input>
+<input></input>
+<button bindtap="addData" type='primary'>确定</button> 
+<!--查询数据-->
+<button bindtap="getRecord" type='primary'>历史记录</button> 
+<view wx:for="{{recordList}}">
+<view class="itemRoot">  
+  </view><view>{{item.record}}
+</view>
+</view>

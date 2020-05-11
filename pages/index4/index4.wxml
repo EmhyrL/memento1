@@ -1,0 +1,29 @@
+<!--pages/index4/index4.wxml-->
+<view class="whole">
+<view class="background">
+
+<view class="new"></view>
+
+<view class="course">
+<view class="courseTitle">课程表</view>
+<view class="content1">你还没有记录你的课程表！</view>
+<view class="content2">请前往记录</view>
+</view>
+
+
+<view class="choice">
+<view class="cancel">
+<navigator class="cancel1" url="../index2/index2" open-type="navigate">Cancel
+  </navigator>
+  </view>
+
+<view class="OK">
+<navigator class="OK1" url="../index3/index3" open-type="navigate">OK
+  </navigator>
+  </view>
+</view>
+
+
+</view>
+</view>
+

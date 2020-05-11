@@ -1,0 +1,4 @@
+<!--pages/index11/index11.wxml-->
+<view class="whole">
+<view class="delay">选择你的延迟时间</view>
+</view>

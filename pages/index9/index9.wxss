@@ -1,0 +1,13 @@
+/* pages/index9/index9.wxss */
+.whole {
+  width: 100%;
+  height: 600px;
+  background-color: #fff5f7;
+}
+.write {
+  width: 100%;
+}
+.itemRoot{
+  background: gainsboro;
+  border: solid 1px;
+}

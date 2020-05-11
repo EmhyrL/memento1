@@ -1,0 +1,23 @@
+<!--pages/index3/index3.wxml-->
+<view class="whole">
+<view class="catalog">
+<view class="logo">
+<image class ="Logo1" src="../../icons/小程序.jpg"></image></view>
+<view class="study">
+<text>学习备忘录</text>
+</view>
+</view>
+<view class="support">
+<button type="default" disabled="true" plain="true">
+<navigator class="comeIn" url="../index7/index7" open-type="navigate">课程图片
+</navigator>
+</button>
+</view>
+<view class="enter">
+<button type="default" disabled="true" plain="true">
+<navigator class="comeIn" url="../index6/index6" open-type="navigate">进入编写
+</navigator>
+</button>
+</view>
+</view>
+

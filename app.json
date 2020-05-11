@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/index11/index11",
+    "pages/index10/index10",
+    "pages/index9/index9",
+    "pages/index5/index5",
+    "pages/index6/index6",
+    "pages/index3/index3",
+    "pages/index4/index4",
+    "pages/index2/index2",
+    "pages/index7/index7",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "学习备忘录",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+  },
+   "style": "v2",
+   "sitemapLocation": "sitemap.json",
+   
+  "tabBar": {
+    "color":"#000",
+    "seleCtedcolor":"#f23030",
+    "backgroundColor":"#fff",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "icons/小程序.jpg",
+      "selectedIconPath": "icons/小程序.jpg"
+    },
+    {
+      "pagePath": "pages/index5/index5",
+      "text": "课程表",
+      "iconPath": "icons/小程序.jpg",
+      "selectedIconPath": "icons/小程序.jpg"
+    }]
+  }
+}

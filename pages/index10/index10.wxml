@@ -1,0 +1,15 @@
+<!--pages/index10/index10.wxml-->
+<view class="whole">
+<view class="delay">
+  <navigator class="comeIn" url="../index11/index11" open-type="navigate">延迟时间设置
+  <text class="direction">></text>
+  </navigator>
+</view>
+<view class="message">
+允许消息通知
+<switch class="page-section-title" name="switch"/>
+</view>
+<view class="remind">未完成任务次日提醒
+<switch class="page-section-title" name="switch"/>
+</view>
+</view>

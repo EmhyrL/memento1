@@ -1,0 +1,24 @@
+<!--index.wxml-->
+
+  <cover-image src="../../icons/background.jpg" mode="widthFix" class="picture"></cover-image>
+<view class="container">
+ <!-- <cover-view class="background" style="background:url(../../icons/background.jpg)" >
+  </cover-view> -->
+
+  <view class="userinfo"> 
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+  <view>
+<button type="default" disabled="true" plain="true">
+<navigator class="comeIn" url="../index2/index2" open-type="navigate">点击进入
+</navigator>
+</button>
+  </view>
+</view>

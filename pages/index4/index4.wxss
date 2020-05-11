@@ -1,0 +1,62 @@
+/* pages/index4/index4.wxss */
+.whole {
+  width: 100%;
+  height: 600px;
+  background-color: #fff5f7;
+}
+.background {
+  background-color: #fff;
+}
+.new {
+  width: 100%;
+  height: 150px;
+  background-color: #fff5f7;
+}
+.course {
+  margin-left: 15%;
+  width: 285px;
+  height: 150px;
+  border-bottom: 2px solid #9ea6b7;
+}
+.courseTitle {
+  margin-left: 110px;
+  padding-top: 40px;
+  font-size: 17px;
+}
+.content1 {
+  margin-top: 20px;
+
+  font-size: 13px;
+  padding-left: 20%;
+}
+.content2 {
+  
+  font-size: 13px;
+  padding-left: 35%;
+}
+.choice {
+  margin-left: 15%;
+  overflow: hidden;
+}
+.cancel {
+  float: left;
+  width: 142px;
+  height: 56px;
+  border-right: 1px solid #9ea6b7;
+  border-bottom-left-radius: 15px;
+}
+.cancel1 {
+  margin-left: 25%; 
+  margin-top: 10%;
+}
+.OK {
+  float: left;
+  width: 143px;
+  height: 56px;
+  border-bottom-right-radius: 15px;
+  
+}
+.OK1 {
+  margin-left: 25%;
+  margin-top: 10%;
+}
